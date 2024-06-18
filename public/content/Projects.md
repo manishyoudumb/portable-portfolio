@@ -9,8 +9,8 @@ A two-phase algorithm rubik's cube solver using javascript.
   - GitHub [https://github.com/manishyoudumb/cube.js]
 
 ## MacOS Simulation
-Description
-- ![600x200](https://via.placeholder.com/600x200)
+Portfolio simulating MacOS GUI. Powered by React + Typescript + Vite.
+- ![600x200](assets/macos.png)
 - Tags: Category 2
 - Badges:
   - keir [cyan]
