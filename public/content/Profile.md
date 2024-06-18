@@ -7,7 +7,7 @@
 - currently pursuing bachelor of technology in Silicon University.
 
 ## About
-Write your "About" section here.
+Lorem
 
 ## Contact
 

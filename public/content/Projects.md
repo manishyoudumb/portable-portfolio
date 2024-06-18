@@ -8,19 +8,22 @@ A two-phase algorithm rubik's cube solver using javascript.
   - Live [https://cube-keir.vercel.app]
   - GitHub [https://github.com/manishyoudumb/cube.js]
 
-## Project B
+## MacOS Simulation
 Description
 - ![600x200](https://via.placeholder.com/600x200)
 - Tags: Category 2
+- Badges:
+  - keir [cyan]
 - Buttons:
-  - Link [https://example.com]
+  - Live [https://macos-keir.vercel.app]
+  - Github [https://github.com/manishyoudumb/play-macos]
   
 
-## Project C
+## what-if?
 Description
 - ![600x200](https://via.placeholder.com/600x200)
 - Tags: Category 3
 - Badges:
-  - Badge [blue]
+  - keir [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/manishyoudumb/what-if]
